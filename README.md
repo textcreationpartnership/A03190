@@ -35,11 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A challenge for beautie· as it hath beene sundry times acted, by the Kings Majesties Servants: at th
+
+1. The Prologue.
+
+1. Dramatis Personae.
+
 #####Body#####
-A challenge for beautie· as it hath beene sundry times acted, by the Kings Majesties Servants: at th
+
+1. A Challenge for Beauty.
+
+1. Actus secundus Scena prima.
+
+1. Actus tertius. Scaena prima.
+
+1. Actus quartus. Scaena prima.
+
+1. Actus quintus. Scaena prima.
+
 #####Back#####
-A challenge for beautie· as it hath beene sundry times acted, by the Kings Majesties Servants: at th
+
+1. The Epilogue.
+
 **Types of content**
 
   * There are 1794 **verse** lines!
